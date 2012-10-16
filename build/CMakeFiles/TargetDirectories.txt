@@ -1,0 +1,2 @@
+/home/josh/LHC_Detector/build/CMakeFiles/LHC_Detector.dir
+/home/josh/LHC_Detector/build/CMakeFiles/LHCdetector.dir
