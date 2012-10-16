@@ -1,5 +1,6 @@
 # LHC Detector with Optical Fiber Scintillator
-contributors: Xie, Qiuchen, Dr. Ugur Akgun (Coe College)
+contributors: Dr. Ugur Akgun, Qiuchen Xie
+
 
 ##Description
 (this description is only for update before July 13)
